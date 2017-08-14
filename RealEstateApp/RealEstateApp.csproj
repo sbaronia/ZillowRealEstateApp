@@ -9,8 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\app\partials\searchdetails.html" />
-    <Content Include="wwwroot\app\partials\searchstatus.html" />
+    <Content Include="wwwroot\app\partials\realestateaddress.html" />
+    <Content Include="wwwroot\app\partials\realestateestimate.html" />
+    <Content Include="wwwroot\app\partials\realestatelinks.html" />
+    <Content Include="wwwroot\app\partials\realestateneighborhoods.html" />
     <Content Include="wwwroot\app\realestateapp.js" />
     <Content Include="wwwroot\app\realestatecontrollers.js" />
     <Content Include="wwwroot\app\realestateservices.js" />

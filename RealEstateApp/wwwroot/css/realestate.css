@@ -1,4 +1,5 @@
 ﻿body {
+    background-color: #F0FFFF;
 }
 
 #searchdiv {
@@ -6,7 +7,6 @@
 }
 
 .search {
-    background: #F0FFFF;
     width: 100%;
 }
 

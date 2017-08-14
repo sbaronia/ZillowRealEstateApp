@@ -1,0 +1,33 @@
+﻿<div ng-controller="realestateEstimateController">
+    <div id="estimatecontent" style="width:100%;">
+        <!-- class="right">-->
+        <table class="table-realestatecontent">
+            <thead>
+                <tr><th colspan="4">Estimate</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><label>Price:</label></td>
+                    <td>{{data.searchResult.estimate.estimatePrice}}</td>
+                </tr>
+                <tr>
+                    <td><label>High Valuation:</label></td>
+                    <td>{{data.searchResult.estimate.highValuation}}</td>
+                </tr>
+                <tr>
+                    <td><label>Low Valuation:</label></td>
+                    <td>{{data.searchResult.estimate.lowValuation}}</td>
+                </tr>
+                <tr>
+                    <td><label>Percentile:</label></td>
+                    <td>{{data.searchResult.estimate.percentileValue}}</td>
+                </tr>
+                <tr>
+                    <td><label>30 Day Change:</label></td>
+                    <td>{{data.searchResult.estimate.thirtyDayChange}}</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>

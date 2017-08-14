@@ -9860,10 +9860,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
+      "projectUniqueName": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\ZillowRealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
       "projectName": "RealEstateApp",
-      "projectPath": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
-      "outputPath": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\RealEstateApp\\RealEstateApp\\obj\\",
+      "projectPath": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\ZillowRealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
+      "outputPath": "C:\\Users\\shara\\Documents\\Visual Studio 2017\\Projects\\ZillowRealEstateApp\\RealEstateApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

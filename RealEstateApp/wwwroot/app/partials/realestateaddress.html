@@ -1,0 +1,35 @@
+﻿<div ng-controller="realestateAddressController">
+    <div id="addresscontent" style="width:100%;"><!-- class="left">-->
+        <table class="table-realestatecontent">
+            <thead>
+                <tr><th colspan="4">Address</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><label>Street:</label></td>
+                    <td>{{data.searchResult.address.street}}</td>
+                </tr>
+                <tr>
+                    <td><label>City:</label></td>
+                    <td>{{data.searchResult.address.city}}</td>
+                </tr>
+                <tr>
+                    <td><label>State:</label></td>
+                    <td>{{data.searchResult.address.state}}</td>
+                </tr>
+                <tr>
+                    <td><label>ZipCode:</label></td>
+                    <td>{{data.searchResult.address.zipcode}}</td>
+                </tr>
+                <tr>
+                    <td><label>Latitude:</label></td>
+                    <td>{{data.searchResult.address.latitude}}</td>
+                </tr>
+                <tr>
+                    <td><label>Longitude:</label></td>
+                    <td>{{data.searchResult.address.longitude}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

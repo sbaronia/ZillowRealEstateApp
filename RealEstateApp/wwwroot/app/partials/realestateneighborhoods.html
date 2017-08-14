@@ -1,0 +1,24 @@
+﻿<div ng-controller="realestateEstimateController">
+    <div id="neighborhoodcontent" style="width:100%;">
+        <table class="table-realestatecontent">
+            <thead>
+                <tr><th colspan="4">NeighborHood</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><label>Sale By Owner:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.neighborHoods[0].linkForSaleByOwner}}" title="Sale By Owner" target="_blank" ng-click="linkModelFunc({{data.searchResult.neighborHoods[0].linkForSaleByOwner}})">Sale By Owner</a></td>
+
+                </tr>
+                <tr>
+                    <td><label>Sale Home:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.neighborHoods[0].linkForSaleHome}}" title="Sale Home" target="_blank" ng-click="linkModelFunc({{data.searchResult.neighborHoods[0].linkForSaleHome}})">Sale Home</a></td>
+                </tr>
+                <tr>
+                    <td><label>Region Overview:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.neighborHoods[0].linkToRegionOverview}}" title="Region Overview" target="_blank" ng-click="linkModelFunc({{data.searchResult.neighborHoods[0].linkToRegionOverview}})">Region Overview</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

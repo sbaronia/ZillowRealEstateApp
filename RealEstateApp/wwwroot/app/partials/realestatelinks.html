@@ -1,0 +1,28 @@
+﻿<div ng-controller="realestateEstimateController">
+    <div id="linkcontent" style="width:100%;">
+        <table class="table-realestatecontent">
+            <thead>
+                <tr><th colspan="4">Links</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><label>Chart:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.links.chartData}}" title="Chart Data" target="_blank" ng-click="linkModelFunc({{data.searchResult.links.chartData}})">Chart Data</a></td>
+
+                </tr>
+                <tr>
+                    <td><label>Home Details:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.links.homeDetails}}" title="Home Details" target="_blank" ng-click="linkModelFunc({{data.searchResult.links.homeDetails}})">Home Details</a></td>
+                </tr>
+                <tr>
+                    <td><label>Map Home:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.links.mapHome}}" title="Map Home" target="_blank" ng-click="linkModelFunc({{data.searchResult.links.mapHome}})">Map Home</a></td>
+                </tr>
+                <tr>
+                    <td><label>Similar Homes:</label></td>
+                    <td><a class="navLinkChart" href="{{data.searchResult.links.similarSales}}" title="Similar Homes" target="_blank" ng-click="linkModelFunc({{data.searchResult.links.similarSales}})">Similar Sales</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
