@@ -2,7 +2,8 @@
     factory('searchAPIservice', function ($http) {
 
         var searchAPI = {
-            data: { searchResult: null, error: { error: 0, status: "" } }, detailHide: 1
+            data: { searchResult: null, error: { error: 0, status: "" } },
+            detailHide: 1
         };
     
 

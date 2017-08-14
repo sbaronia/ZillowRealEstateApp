@@ -8,6 +8,11 @@
         $scope.city = "";
         $scope.state = "";
         $scope.detailHide = searchAPIservice.detailHide;
+        $scope.$watch(function () { return searchAPIservice.detailHide }, function (newVal, oldVal) {
+            if (typeof newVal !== 'undefined') {
+                $scope.detailHide = searchAPIservice.detailHide;
+            }
+        });
 
         console.log("search controller started..");
         $scope.linkModelFunc = function (url) {
