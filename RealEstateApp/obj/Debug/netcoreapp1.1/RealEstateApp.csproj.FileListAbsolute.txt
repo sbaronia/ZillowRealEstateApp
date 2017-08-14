@@ -1,0 +1,9 @@
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\RealEstateApp.deps.json
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\RealEstateApp.runtimeconfig.json
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\RealEstateApp.runtimeconfig.dev.json
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\RealEstateApp.dll
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\RealEstateApp.pdb
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\RealEstateApp.AssemblyInfo.cs
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\RealEstateApp.dll
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\RealEstateApp.pdb
+C:\Users\shara\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\RealEstateApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+﻿body {
+}
+
+#searchdiv {
+    width: 100%;
+}
+
+.search {
+    background: #F0FFFF;
+    width: 100%;
+}
+
+    .search td {
+        width: 150px;
+    }
+
+.table-realestatecontent {
+    background: #FFEBCD;
+}
+
+    .table-realestatecontent td {
+        width: 200px;
+    }
+
+.container {
+    margin: 0;
+    background: #FFEBCD;
+    width: 100%;
+}
+
+.left {
+    width: 15%;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    margin-left: 15%;
+    height: 200px;
+}
+
+.status-bar {
+    background: #FFEBCD;
+    width: 400px;
+}
